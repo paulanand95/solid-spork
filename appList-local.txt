@@ -1,0 +1,9 @@
+appName:dataDir:folderToBackup:backupType:lvmVG:lvmLV
+bitbucket:/srv/application-data:bitbucket:archive:vg0:srv
+confluence:/srv/application-data:confluence/attachments confluence/confluence.cfg.xml:archive:vg0:srv
+jira:/srv/application-data:jira/data jira/dbconfig.xml:archive:vg0:srv
+testrail:/srv/application-data:testrail:archive:vg0:srv
+mysql:/srv/application-data:mysql/conf.d:archive
+ldap:/srv/application-data:ldap:archive
+apache2:/srv/application-data:apache2:archive
+jenkins:/srv/application-data:jenkins/.ssh jenkins/thinBackup:archive
