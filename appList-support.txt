@@ -1,0 +1,6 @@
+appName:dataDir:folderToBackup:backupType:lvmVG:lvmLV
+redmine:/srv:redmine:sync
+licensemanager:/srv/mcruncher/mcruncher-app-dataDir:licensemanager:archive
+mysql:::archive
+apache2:/srv:apache2:archive
+ssl:/srv:ssl:archive
