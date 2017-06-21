@@ -7,4 +7,3 @@ mysql:/srv/application-data:mysql/conf.d:archive
 ldap:/srv/application-data:ldap:archive
 apache2:/srv/application-data:apache2:archive
 jenkins:/srv/application-data:jenkins/.ssh jenkins/thinBackup:archive
-Hello 
